@@ -12,7 +12,7 @@ while True:
     elif op == '*':
         print('Частное: ', a*b)
     elif op == '%':
-        print(a/100*b)
+        print('Ответ: ',a/100*b)
     else:
         print('Я не знаю такого оператора')
 
